@@ -6,7 +6,6 @@ https://github.com/mdzaman23/mdzaman23/assets/119610605/a744fb4f-23d9-4503-8526-
 ### Hi there 👋, I am md zaman
 #### Web Developer 
 ![Web Developer ][(https://www.linkedin.com/in/freelancer-md-zaman-bd)] 
- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freelancer-md-zaman-bd/)
 Hello There, I am Web Developer md zaman. I'm a VUE JS / JS / HTML / CSS / PHP / SEO Professional Digital Marketer, Facebook, and Instagram Ads Campaign Expert With 4 years of experience. My Services are Facebook marketing, Facebook ads Campaign, Instagram Marketing, Instagram ads, Pixel Setup, iOS14 Update, Shopify ads, Facebook Page, FB Business manager YouTube Marketing, I can promote any business or product, or service to millions of people worldwide, I am a very friendly guys. At the same time, I like hard work and always want to achieve customer satisfaction. If I fail to deliver any project I will refund this immediately, 100% guarantee. Thank you
 
 
