@@ -1,4 +1,5 @@
-![md-zaman](https://github.com/mdzaman23/mdzaman23/assets/119610605/78d07c52-839b-449f-a7c8-8df716d9f187)
+
+![md-zaman](https://github.com/mdzaman23/mdzaman23/assets/119610605/4ce2ab74-76e1-4f02-9eeb-3ff8a54c90eb)
 
 
 ### Hi there 👋, I am md zaman
