@@ -48,10 +48,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ## 🥰 Follow me
 - [@Github](https://github.com/mdzaman23) 
-- [@Facebook](https://www.facebook.com/mdzaman21/) 
-- [@Twitter](https://twitter.com/116Zaman/) 
+- [@Facebook](https://www.facebook.com/mdzaman21) 
+- [@Twitter](https://twitter.com/mdzaman4646) 
 - [@Instagram](https://www.instagram.com/freelancermdzamanbd/)
 - [@quora](https://www.quora.com/profile/Md-Zaman-108-1)
 - [@pinterest](https://www.pinterest.com/freelancermdzamanBD/)
-- [@Linkedin](https://www.linkedin.com/in/freelancer-md-zaman-bd/) 
+- [@Linkedin](https://www.linkedin.com/company/md-malekuzzaman/?viewAsMember=true) 
  
