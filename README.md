@@ -4,8 +4,8 @@
 
 ### Hi there 👋, I am md zaman
 #### Web Developer 
-![Web Developer ][(https://www.linkedin.com/in/freelancer-md-zaman-bd)] 
-Hello There, I am Web Developer MD Zaman. I'm a VUE JS / JS / HTML / CSS / PHP / SEO Professional Digital Marketer, and Facebook, and Instagram Ads Campaign Expert With 4 years of experience. My Services are Facebook marketing, Facebook ads Campaign, Instagram Marketing, Instagram ads, Pixel Setup, iOS14 Update, Shopify ads, Facebook Page, FB Business manager YouTube Marketing, I can promote any business or product, or service to millions of people worldwide, I am a very friendly guys. At the same time, I like hard work and always want to achieve customer satisfaction. If I fail to deliver any project I will refund this immediately, 100% guarantee. Thank you
+![Web Developer ][([https://www.linkedin.com/in/freelancer-md-zaman-bd](https://www.linkedin.com/company/md-malekuzzaman/?viewAsMember=true))] 
+Hello There, I am Web Developer MD Zaman. I'm a VUE JS / JS / HTML / CSS / PHP / I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication.  At the same time, I like hard work and always want to achieve customer satisfaction. If I fail to deliver any project I will refund this immediately, 100% guarantee. Thank you
 
 
 
@@ -32,7 +32,7 @@ Hello There, I am Web Developer MD Zaman. I'm a VUE JS / JS / HTML / CSS / PHP /
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on you tube 
+- 🔭 I’m currently working on YouTube 
 - 👯 I’m looking to collaborate on GitHub  
 - 💬 Ask me about web December  
 
